@@ -6,7 +6,7 @@
 
 ### Installation
 ```
-git clone https://github.com/dionmadyasta/aws_wireguard_server.git
+git clone https://github.com/dionmadyasta/wireguard-server-ubuntu-aws.git
 cd wireguard_aws
 sudo ./initial.sh
 ```
