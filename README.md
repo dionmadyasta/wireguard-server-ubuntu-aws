@@ -5,7 +5,6 @@
 1. Deploy Ubuntu Server 18.04 di AWS
 2. Buat Security Group, ijinkan inbound traffic untuk SSH 22 dan Custom UDP 54321 untuk wireguard
 
-## How use
 
 ### Installation
 ```
